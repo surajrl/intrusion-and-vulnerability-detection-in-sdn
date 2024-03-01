@@ -1,4 +1,0 @@
-numpy==1.18
-scipy==1.4.1
-scapy==2.4.3
-requests
